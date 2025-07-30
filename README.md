@@ -3,16 +3,16 @@
     <picture>
         <source
             media="(prefers-color-scheme: dark)"
-            srcset="https://github-readme-streaks-main.vercel.app/?user=theck13&background=1f222d&border=ffffff&border_radius=8&card_height=195&card_width=450&currStreakLabel=4892ff&currStreakNum=ffffff&date_format=&dates=7f8f9f&disable_animations=false&exclude_days=&excludeDaysLabel=282a38&fire=4bae52&hide_border=true&hide_current_streak=false&hide_longest_streak=false&hide_total_contributions=false&locale=en&mode=weekly&ring=1a55e6&short_numbers=false&sideLabels=ffffff&sideNums=4892ff&starting_year=2013&stroke=1f222d&theme=github-dark-blue&type=svg"
+            srcset="https://github-readme-streaks-main.vercel.app/?user=theck13&background=1f222d&border=ffffff&border_radius=8&card_height=195&card_width=450&currStreakLabel=4892ff&currStreakNum=ffffff&date_format=%5BY%20%5DM%20j&dates=7f8f9f&disable_animations=false&exclude_days=&excludeDaysLabel=282a38&fire=4bae52&hide_border=true&hide_current_streak=false&hide_longest_streak=false&hide_total_contributions=false&locale=en&mode=weekly&ring=1a55e6&short_numbers=false&sideLabels=ffffff&sideNums=4892ff&starting_year=2013&stroke=1f222d&theme=github-dark-blue&type=svg"
         />
         <source
             media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-            srcset="https://github-readme-streaks-main.vercel.app/?user=theck13&background=e4e9ee&border=000000&border_radius=8&card_height=195&card_width=450&currStreakLabel=2567e8&currStreakNum=181a1e&date_format=&dates=7f8f9f&disable_animations=false&exclude_days=&excludeDaysLabel=29743d&fire=29b43d&hide_border=true&hide_current_streak=false&hide_longest_streak=false&hide_total_contributions=false&locale=en&mode=weekly&ring=0e50d2&short_numbers=false&sideLabels=181a1e&sideNums=2567e8&starting_year=2013&stroke=e4e9ee&theme=default&type=svg"
+            srcset="https://github-readme-streaks-main.vercel.app/?user=theck13&background=e4e9ee&border=000000&border_radius=8&card_height=195&card_width=450&currStreakLabel=2567e8&currStreakNum=181a1e&date_format=%5BY%20%5DM%20j&dates=7f8f9f&disable_animations=false&exclude_days=&excludeDaysLabel=29743d&fire=29b43d&hide_border=true&hide_current_streak=false&hide_longest_streak=false&hide_total_contributions=false&locale=en&mode=weekly&ring=0e50d2&short_numbers=false&sideLabels=181a1e&sideNums=2567e8&starting_year=2013&stroke=e4e9ee&theme=default&type=svg"
         />
         <img
             align="center"
             alt="GitHub Activity Streaks"
-            src="https://github-readme-streaks-main.vercel.app/?user=theck13&background=1f222d&border=ffffff&border_radius=8&card_height=195&card_width=450&currStreakLabel=4892ff&currStreakNum=ffffff&date_format=&dates=7f8f9f&disable_animations=false&exclude_days=&excludeDaysLabel=282a38&fire=4bae52&hide_border=true&hide_current_streak=false&hide_longest_streak=false&hide_total_contributions=false&locale=en&mode=weekly&ring=1a55e6&short_numbers=false&sideLabels=ffffff&sideNums=4892ff&starting_year=2013&stroke=1f222d&theme=github-dark-blue&type=svg"
+            src="https://github-readme-streaks-main.vercel.app/?user=theck13&background=1f222d&border=ffffff&border_radius=8&card_height=195&card_width=450&currStreakLabel=4892ff&currStreakNum=ffffff&date_format=%5BY%20%5DM%20j&dates=7f8f9f&disable_animations=false&exclude_days=&excludeDaysLabel=282a38&fire=4bae52&hide_border=true&hide_current_streak=false&hide_longest_streak=false&hide_total_contributions=false&locale=en&mode=weekly&ring=1a55e6&short_numbers=false&sideLabels=ffffff&sideNums=4892ff&starting_year=2013&stroke=1f222d&theme=github-dark-blue&type=svg"
             style="width:48%;"
         />
     </picture>
