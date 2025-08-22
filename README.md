@@ -41,16 +41,16 @@
 <picture>
     <source
         media="(prefers-color-scheme: dark)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph/?username=theck13&area=true&area_color=1a55e6&bg_color=1f222d&color=ffffff&custom_title=Last%2030%20Days&days=30&from=&grid=true&height=400&hide_border=true&hide_title=false&line=1a55e6&point=4bce52&radius=8&theme=github&title_color=4892ff&to="
+        srcset="https://github-readme-contributions-main.vercel.app/graph/?username=theck13&area=true&area_color=1a55e6&bg_color=1f222d&color=ffffff&custom_title=Last%2030%20Days&days=30&from=&grid=true&height=400&hide_border=true&hide_title=false&line=1a55e6&point=4bce52&radius=8&theme=github&title_color=4892ff&to="
     />
     <source
         media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-        srcset="https://github-readme-activity-graph.vercel.app/graph/?username=theck13&area=true&area_color=0e50d2&bg_color=f0f2f4&color=181a1e&custom_title=Last%2030%20Days&days=30&from=&grid=true&height=400&hide_border=true&hide_title=false&line=0e50d2&point=29b43d&radius=8&theme=github&title_color=0e50d2&to="
+        srcset="https://github-readme-contributions-main.vercel.app/graph/?username=theck13&area=true&area_color=0e50d2&bg_color=f0f2f4&color=181a1e&custom_title=Last%2030%20Days&days=30&from=&grid=true&height=400&hide_border=true&hide_title=false&line=0e50d2&point=29b43d&radius=8&theme=github&title_color=0e50d2&to="
     />
     <img
         align="left"
         alt="GitHub Contributions Graph"
-        src="https://github-readme-activity-graph.vercel.app/graph/?username=theck13&area=true&area_color=1a55e6&bg_color=1f222d&color=ffffff&custom_title=Last%2030%20Days&days=30&from=&grid=true&height=400&hide_border=true&hide_title=false&line=1a55e6&point=4bce52&radius=8&theme=github&title_color=4892ff&to="
+        src="https://github-readme-contributions-main.vercel.app/graph/?username=theck13&area=true&area_color=1a55e6&bg_color=1f222d&color=ffffff&custom_title=Last%2030%20Days&days=30&from=&grid=true&height=400&hide_border=true&hide_title=false&line=1a55e6&point=4bce52&radius=8&theme=github&title_color=4892ff&to="
         style="width:99%;"
     />
 </picture>
